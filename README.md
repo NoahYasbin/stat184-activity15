@@ -1,7 +1,7 @@
 # stat184-activity15
 
 # What is in this file
-This repository is used for STAT 184 Activity 15 (GitHub Practice).
+This repository is used for STAT 184 Activity 15.
 It stores my work for Activity 14 and shows that I can use GitHub for version control, including branches, issues, commits, and pull requests.
 
 # Data
