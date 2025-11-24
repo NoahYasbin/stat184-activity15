@@ -14,7 +14,7 @@ All data in Activity 14 was provided by the STAT 184 data files through Canvas.
 4. Use Issues and Pull Requests to document future changes if the repository needs to be changed.
 # Repository Organization
 - README.md - Describes the contents and plan for the repo.
-- activity14_report.pdf – The report that I submitted for Activity 14.
+- activity14.pdf – The report that I submitted for Activity 14.
 - activity14.qmd – The Quarto file used to create the Activity 14 report.
 - .gitattributes – Git configuration file created automatically by GitHub.
 
